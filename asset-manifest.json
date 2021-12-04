@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/Jack_StatRPG_whitelist/static/css/main.5f3ad702.chunk.css",
-    "main.js": "/Jack_StatRPG_whitelist/static/js/main.446224fc.chunk.js",
-    "main.js.map": "/Jack_StatRPG_whitelist/static/js/main.446224fc.chunk.js.map",
-    "runtime-main.js": "/Jack_StatRPG_whitelist/static/js/runtime-main.caa5148c.js",
-    "runtime-main.js.map": "/Jack_StatRPG_whitelist/static/js/runtime-main.caa5148c.js.map",
-    "static/css/2.f7079779.chunk.css": "/Jack_StatRPG_whitelist/static/css/2.f7079779.chunk.css",
-    "static/js/2.31b2e824.chunk.js": "/Jack_StatRPG_whitelist/static/js/2.31b2e824.chunk.js",
-    "static/js/2.31b2e824.chunk.js.map": "/Jack_StatRPG_whitelist/static/js/2.31b2e824.chunk.js.map",
-    "static/js/3.5b0f4bf9.chunk.js": "/Jack_StatRPG_whitelist/static/js/3.5b0f4bf9.chunk.js",
-    "static/js/3.5b0f4bf9.chunk.js.map": "/Jack_StatRPG_whitelist/static/js/3.5b0f4bf9.chunk.js.map",
-    "index.html": "/Jack_StatRPG_whitelist/index.html",
-    "static/css/2.f7079779.chunk.css.map": "/Jack_StatRPG_whitelist/static/css/2.f7079779.chunk.css.map",
-    "static/css/main.5f3ad702.chunk.css.map": "/Jack_StatRPG_whitelist/static/css/main.5f3ad702.chunk.css.map",
-    "static/js/2.31b2e824.chunk.js.LICENSE.txt": "/Jack_StatRPG_whitelist/static/js/2.31b2e824.chunk.js.LICENSE.txt",
-    "static/media/index.css": "/Jack_StatRPG_whitelist/static/media/sora-latin-ext-400-normal.b6e3517b.woff2",
-    "static/media/wallet.43e193fc.less": "/Jack_StatRPG_whitelist/static/media/wallet.43e193fc.less"
+    "main.css": "/gumdrop/static/css/main.ddf76232.chunk.css",
+    "main.js": "/gumdrop/static/js/main.446224fc.chunk.js",
+    "main.js.map": "/gumdrop/static/js/main.446224fc.chunk.js.map",
+    "runtime-main.js": "/gumdrop/static/js/runtime-main.8324713c.js",
+    "runtime-main.js.map": "/gumdrop/static/js/runtime-main.8324713c.js.map",
+    "static/css/2.1cba035d.chunk.css": "/gumdrop/static/css/2.1cba035d.chunk.css",
+    "static/js/2.715e25d9.chunk.js": "/gumdrop/static/js/2.715e25d9.chunk.js",
+    "static/js/2.715e25d9.chunk.js.map": "/gumdrop/static/js/2.715e25d9.chunk.js.map",
+    "static/js/3.5b0f4bf9.chunk.js": "/gumdrop/static/js/3.5b0f4bf9.chunk.js",
+    "static/js/3.5b0f4bf9.chunk.js.map": "/gumdrop/static/js/3.5b0f4bf9.chunk.js.map",
+    "index.html": "/gumdrop/index.html",
+    "static/css/2.1cba035d.chunk.css.map": "/gumdrop/static/css/2.1cba035d.chunk.css.map",
+    "static/css/main.ddf76232.chunk.css.map": "/gumdrop/static/css/main.ddf76232.chunk.css.map",
+    "static/js/2.715e25d9.chunk.js.LICENSE.txt": "/gumdrop/static/js/2.715e25d9.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/gumdrop/static/media/sora-latin-ext-400-normal.b6e3517b.woff2",
+    "static/media/wallet.43e193fc.less": "/gumdrop/static/media/wallet.43e193fc.less"
   },
   "entrypoints": [
-    "static/js/runtime-main.caa5148c.js",
-    "static/css/2.f7079779.chunk.css",
-    "static/js/2.31b2e824.chunk.js",
-    "static/css/main.5f3ad702.chunk.css",
+    "static/js/runtime-main.8324713c.js",
+    "static/css/2.1cba035d.chunk.css",
+    "static/js/2.715e25d9.chunk.js",
+    "static/css/main.ddf76232.chunk.css",
     "static/js/main.446224fc.chunk.js"
   ]
 }
