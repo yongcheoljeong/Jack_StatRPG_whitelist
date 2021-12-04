@@ -1,27 +1,27 @@
 {
   "files": {
     "main.css": "/Jack_StatRPG_whitelist/static/css/main.5f3ad702.chunk.css",
-    "main.js": "/Jack_StatRPG_whitelist/static/js/main.665c7b8c.chunk.js",
-    "main.js.map": "/Jack_StatRPG_whitelist/static/js/main.665c7b8c.chunk.js.map",
+    "main.js": "/Jack_StatRPG_whitelist/static/js/main.03b49730.chunk.js",
+    "main.js.map": "/Jack_StatRPG_whitelist/static/js/main.03b49730.chunk.js.map",
     "runtime-main.js": "/Jack_StatRPG_whitelist/static/js/runtime-main.caa5148c.js",
     "runtime-main.js.map": "/Jack_StatRPG_whitelist/static/js/runtime-main.caa5148c.js.map",
     "static/css/2.f7079779.chunk.css": "/Jack_StatRPG_whitelist/static/css/2.f7079779.chunk.css",
-    "static/js/2.31b2e824.chunk.js": "/Jack_StatRPG_whitelist/static/js/2.31b2e824.chunk.js",
-    "static/js/2.31b2e824.chunk.js.map": "/Jack_StatRPG_whitelist/static/js/2.31b2e824.chunk.js.map",
+    "static/js/2.049959a7.chunk.js": "/Jack_StatRPG_whitelist/static/js/2.049959a7.chunk.js",
+    "static/js/2.049959a7.chunk.js.map": "/Jack_StatRPG_whitelist/static/js/2.049959a7.chunk.js.map",
     "static/js/3.5b0f4bf9.chunk.js": "/Jack_StatRPG_whitelist/static/js/3.5b0f4bf9.chunk.js",
     "static/js/3.5b0f4bf9.chunk.js.map": "/Jack_StatRPG_whitelist/static/js/3.5b0f4bf9.chunk.js.map",
     "index.html": "/Jack_StatRPG_whitelist/index.html",
     "static/css/2.f7079779.chunk.css.map": "/Jack_StatRPG_whitelist/static/css/2.f7079779.chunk.css.map",
     "static/css/main.5f3ad702.chunk.css.map": "/Jack_StatRPG_whitelist/static/css/main.5f3ad702.chunk.css.map",
-    "static/js/2.31b2e824.chunk.js.LICENSE.txt": "/Jack_StatRPG_whitelist/static/js/2.31b2e824.chunk.js.LICENSE.txt",
+    "static/js/2.049959a7.chunk.js.LICENSE.txt": "/Jack_StatRPG_whitelist/static/js/2.049959a7.chunk.js.LICENSE.txt",
     "static/media/index.css": "/Jack_StatRPG_whitelist/static/media/sora-latin-ext-400-normal.b6e3517b.woff2",
     "static/media/wallet.43e193fc.less": "/Jack_StatRPG_whitelist/static/media/wallet.43e193fc.less"
   },
   "entrypoints": [
     "static/js/runtime-main.caa5148c.js",
     "static/css/2.f7079779.chunk.css",
-    "static/js/2.31b2e824.chunk.js",
+    "static/js/2.049959a7.chunk.js",
     "static/css/main.5f3ad702.chunk.css",
-    "static/js/main.665c7b8c.chunk.js"
+    "static/js/main.03b49730.chunk.js"
   ]
 }
